@@ -1,0 +1,123 @@
+html, body {
+	height: 100%;
+}
+
+@font-face {
+	font-family: "BankGothic Md BT";
+	src: url(../fonts/bankgothiccmdbt.otf);
+}
+
+.login-body {
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-ms-flex-align: center;
+	-ms-flex-pack: center;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #222;
+	color: #FFF;
+}
+
+.form-signin {
+	width: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.form-signin .checkbox {
+	font-weight: 400;
+}
+
+.form-signin .form-control {
+	position: relative;
+	box-sizing: border-box;
+	height: auto;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+	z-index: 2;
+}
+
+.form-signin input[type="email"] {
+	margin-bottom: -1px;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+	margin-bottom: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.brand-text {
+	font-family: "BankGothic Md BT";
+	color: #c74c38
+}
+
+.btn-theme {
+	color: #fff;
+	background-color: #F0563D;
+	border-color: #F0563D;
+	box-shadow: none;
+}
+
+.btn-theme:hover {
+	transition: 0.4s all linear;
+	color: #fff;
+	background-color: #000;
+	border-color: #000;
+}
+
+.brand-link .brand-image {
+	margin-top: 0px;
+}
+
+.main-footer {
+	color: #DDD;
+}
+
+.form-group label {
+	color: #777;
+	margin-bottom: 0;
+}
+
+.sidebar-dark-primary, .navbar-dark, .footer-dark, .bg-dark {
+	background-color: #222 !important;
+}
+
+.img-user {
+	width: 70%;
+	overflow: hidden;
+}
+
+.img-user-small {
+	width: 33px !important;
+	height: 33px !important;
+	overflow: hidden;
+}
+
+.img-container-wrap {
+	width: 100%;
+	height: 210px;
+	overflow: hidden;
+	text-align: center;
+}
+
+.img-container-wrap img {
+	width: auto !important;
+	height: 210px;
+	vertical-align: middle;
+}
+
+.custom-card {
+	min-height: 100%;
+}

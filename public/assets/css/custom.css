@@ -1,0 +1,268 @@
+/**
+*
+*/
+
+.top-nav {
+    background-image: url('/assets/img/header-bg.jpg');
+}
+
+.nav-logo {
+    background-color: #021f41;
+}
+
+.nav-logo .logo {
+    padding: 12px 0;
+}
+
+.top-nav .main-menu ul li a {
+    color: #0b1e41;
+    font-weight: bold;
+}
+
+.top-nav .main-menu ul li a:hover {
+    color: #90989b;
+}
+
+.top-nav .main-menu ul li.active a {
+    color: #0b1e41;
+}
+
+.top-nav .top-right .property-sub {
+    background: #0b1e41;
+}
+
+.nav-logo .nav-logo-right ul li i {
+    color: #EEE;
+}
+
+.nav-logo .nav-logo-right ul li .info-text p {
+    color: #EEE;
+}
+
+.icon_menu {
+    color: #FFF;
+}
+
+.canvas-open {
+    top: 45px;
+}
+
+.top-nav .top-right .language-option i {
+    color: #0b1e41;
+}
+
+.thumbs {
+    height: 62px;
+}
+
+.search-form-text .search-text {
+    background-color: #0b1e41;
+}
+
+.filter-form .second-row button.search-btn {
+    background-color: #0b1e41;
+}
+
+.ui-slider .ui-slider-range, .ui-slider-horizontal .ui-slider-handle {
+    background: #0b1e41;
+}
+
+.breadcrumb-section {
+    background-attachment: fixed;
+    background-image: url('../img/hero/02.jpg');
+}
+
+.breadcrumb-text {
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.breadcrumb-text h2, .breadcrumb-text .breadcrumb-option a {
+    color: #fff;
+}
+
+.section-title h2::after {
+    background: #CCC;
+}
+
+.fas, .fab, .fa {
+    color: #054085;
+}
+
+.footer-widget .fas, .footer-widget .fab, .footer-widget .fa{
+    color: #aaaab3;
+}
+
+.feature-carousel.owl-carousel .owl-dots button.owl-dot.active {
+    background: #054085;
+    border-color: #054085;
+}
+
+.video-section {
+    background-attachment: fixed;
+}
+
+.video-text {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.video-text h4 {
+    font-size: 16px;
+}
+
+.video-text .top-property-all {
+    font-size: 16px;
+    font-weight: 500;
+    color: #CCC;
+    border: 2px solid #CCC;
+    padding: 12px 30px;
+    display: inline-block;
+    margin-top: 32px;
+}
+
+.top-properties-section .top-property-all {
+    color: #054085;
+    border: 2px solid #054085;
+}
+
+.s-text {
+    background: #054085 !important;
+}
+
+.top-properties-carousel .single-top-properties .stp-text .room-price h4 {
+    color: #054085;
+}
+
+.blog-section {
+    background: #F2F4F5;
+}
+
+.thumbnail-pic .thumbs {
+    overflow: hidden;
+}
+
+.footer-section {
+    background-color: #021f41;
+}
+
+.footer-text .footer-widget ul li i {
+    color: #CCC;
+}
+
+.copyright-text p a {
+    color: #f0563d;
+}
+
+.footer-text .footer-logo .logo {
+    margin-bottom: 5px;
+}
+
+.feature-carousel .feature-item .fi-text .inside-text h5.money {
+    color: #19191a;
+    font-weight: 600;
+}
+
+.top-properties-carousel .single-top-properties .stp-text .room-price h4 span {
+    color: #054085;
+    font-weight: 600;
+    display: inline-block;
+    font-size: 24px;
+}
+
+.top-properties-carousel .single-top-properties .stp-text .room-features li i {
+    color: #054085;
+}
+
+.single-blog-item .sb-pic {
+    max-height: 198px;
+    overflow: hidden;
+}
+
+.breadcrumb-text .breadcrumb-option a::after {
+    content: " /";
+}
+
+.primary-btn {
+    font-size: 14px;
+    display: inline-block;
+    color: #ffffff;
+    background: #054085;
+    padding: 12px 50px 10px;
+}
+
+.blog-details-title {
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+.blog-details-title a {
+    color: #777;
+    text-decoration: underline;
+}
+
+.blog-details-title a:hover {
+    color: #054085;
+    opacity: 0.8;
+    transition: 0.5s all linear;
+}
+
+.property-sidebar .sidebar-btn .bt-item input[type="radio"]:checked+label {
+    background: #021f41;
+}
+
+.property-sidebar .sidebar-search button.search-btn {
+    background: #021f41;
+    border: 1px solid #021f41;
+}
+
+.property-list .single-property-item .property-text .room-features li i {
+    color: #054085;
+}
+
+.property-list .single-property-item .property-text .room-price h5, .property-list .single-property-item .property-text .room-price h5 span {
+    color: #054085;
+    font-size: 24px;
+}
+
+.pd-hero-text .room-price .price {
+    color: #ffffff;
+    font-size: 22px;
+    margin-bottom: 0;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.pd-hero-text .room-features li i {
+    color: #CCC;
+}
+
+.pd-details-text .pd-details-social a .fab{
+    color: #707079;
+    cursor: pointer;
+}
+
+.pd-details-text .pd-details-tab .tab-content .property-more-table table tbody tr td.pt-name {
+    width: 50%;
+}
+
+.pd-details-text .pd-details-tab .tab-item ul li a.active {
+    background: #054085;
+}
+
+.site-btn {
+    background: #054085;
+    border: 1px solid #054085;
+}
+
+.contact-form .is-invalid{
+    border-color: red !important;
+}
+
+.contact-form input, .contact-form textarea{
+    margin-bottom: 5px !important;
+}
+
+.contact-form .invalid-feedback{
+    margin-bottom: 15px;
+}
