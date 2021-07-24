@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', '4R Emprendimentos & Incorporações'),
+    'name' => env('APP_NAME', 'Unruh Admin 2.0'),
 
     /*
     |--------------------------------------------------------------------------
