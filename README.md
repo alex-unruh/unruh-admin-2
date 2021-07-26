@@ -19,7 +19,7 @@ Painel CMS completo monolítico, construído com Laravel, Blade templates e jQue
 - Criação de categorias e subcategorias (filhas) infinitas
 - CRUD completo de posts com integração ao gerenciador de mídia e editor de texto
 
-## Requerimentos:
+## Requisitos:
 
 - PHP 7.3+
 
